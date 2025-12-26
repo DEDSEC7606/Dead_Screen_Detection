@@ -1,0 +1,15 @@
+ **requirements.txt**
+
+fastapi
+uvicorn
+python-multipart
+numpy
+opencv-python
+pillow
+werkzeug
+jinja2
+
+If auto_capture.py uses mss, add:
+
+mss
+
